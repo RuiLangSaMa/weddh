@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/RuiLangSaMa/weddh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RuiLangSaMa/weddh/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 米克网址导航
+### 搜索引擎类：  
+## [百度](https://baidu.com/) [搜狗](https://www.sogou.com/) [今日头条](https://www.toutiao.com/) [360搜索](https://so.com/) [必应Bing](https://cn.bing.com/) [更多](https://cn.bing.com/search?q=%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E&qs=n&form=QBRE&sp=-1&pq=%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E&sc=8-4&sk=&cvid=7B603BFD8DD24D6690100A09694C2D96)   
+## 资讯类：  
+## [百度疫情大数据地图](https://voice.baidu.com/act/newpneumonia/newpneumonia?) [新浪新闻](https://news.sina.com.cn/) [网易新闻](https://news.163.com/) [搜狐新闻](https://news.sohu.com/) [凤凰网](https://www.ifeng.com/) [更多](https://cn.bing.com/search?q=%E6%96%B0%E9%97%BB&qs=n&form=QBRE&sp=-1&pq=%E3%80%81%E6%96%B0%E9%97%BB&sc=0-3&sk=&cvid=66A16ABC3C384FF68A4218371A9A1098)   
+## 天气信息查询：  
+## [中国天气](http://www.weather.com.cn/) [墨迹天气](https://www.moji.com/) [2345天气](https://tianqi.2345.com/) [米克天气](http://mctra.top/wed/w/w.htm) [更多与百度天气](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=62095104_43_oem_dg&wd=%E5%A4%A9%E6%B0%94&fenlei=256&rsv_pq=a1a9fb8a00083994&rsv_t=a706cHYQH%2FhiRvu22%2Bc1I2EmknJ97Deixyq63a%2FAHSIyIuW8AlUTSVsusXAwXALSJnk%2BpIGV%2BR4g&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=7&rsv_sug2=0&rsv_btype=i&inputT=1029&rsv_sug4=1030)    
